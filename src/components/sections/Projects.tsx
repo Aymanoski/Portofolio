@@ -30,6 +30,28 @@ const projects = [
   },
   {
     featured: false,
+    label: "Full-Stack · Team Project",
+    title: "EventSync — GUC Campus Events Platform",
+    description:
+      "A full-stack, role-aware campus events hub for the GUC community, built across structured sprints within a 10-person team. It supports workshops, trips, bazaars, and conferences with approval workflows, payments, media uploads, notifications, and loyalty points.",
+    problem:
+      "Students, staff, vendors, event offices, and admins needed one platform to coordinate campus events without fragmented approvals, registration, and payment flows.",
+    solution:
+      "Built a Next.js 14 + Node.js/Express + MongoDB platform with JWT authentication, dynamic role-based routing, Stripe payments, Cloudinary uploads, and real-time notifications.",
+    impact: [
+      { icon: Users, text: "6 user roles with role-aware routing" },
+      { icon: Zap, text: "Approval workflows across 4 event types" },
+      { icon: Globe, text: "Stripe, Cloudinary, notifications, loyalty points" },
+    ],
+    stack: ["Next.js 14", "React", "TypeScript", "Node.js", "Express.js", "MongoDB", "MUI", "JWT", "Stripe"],
+    color: "from-accent-teal/15 to-accent-purple/10",
+    accentColor: "text-accent-teal",
+    borderColor: "border-accent-teal/30",
+    github: null,
+    live: null,
+  },
+  {
+    featured: false,
     label: "Full-Stack · Cloud-Native",
     title: "Car Dealership Platform",
     description:

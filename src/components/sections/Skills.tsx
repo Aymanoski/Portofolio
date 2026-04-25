@@ -14,6 +14,7 @@ const skillGroups = [
       { name: "Next.js", level: 92 },
       { name: "TypeScript", level: 85 },
       { name: "HTML / CSS", level: 90 },
+      { name: "MUI", level: 82 },
     ],
   },
   {
@@ -36,6 +37,7 @@ const skillGroups = [
       { name: "Node.js + Express", level: 88 },
       { name: "Django / Flask", level: 80 },
       { name: "SignalR (WebSockets)", level: 82 },
+      { name: "JWT Auth", level: 86 },
     ],
   },
   {
@@ -59,6 +61,7 @@ const skillGroups = [
       { name: "Kubernetes", level: 75 },
       { name: "CI/CD Pipelines", level: 80 },
       { name: "Azure / IBM Cloud", level: 72 },
+      { name: "Stripe / Cloudinary", level: 78 },
     ],
   },
   {
