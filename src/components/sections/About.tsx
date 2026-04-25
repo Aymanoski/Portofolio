@@ -9,7 +9,7 @@ const highlights = [
   {
     icon: Rocket,
     title: "Founding Engineer",
-    desc: "Shipped a full fitness coaching platform — web + mobile — from zero to beta in under 3 months as part of the founding team at Kalybr.",
+    desc: "Shipped a full fitness coaching platform — web + mobile — from zero to beta as part of the founding team at Kalybr.",
     color: "text-brand-400",
     bg: "bg-brand-500/10",
     border: "border-brand-500/20",
@@ -63,8 +63,7 @@ export default function About() {
             normalized database schemas to shipping pixel-perfect mobile UIs, I
             operate across the full stack with the ownership mentality of someone
             who&apos;s been in the founding seat. At Kalybr, I took a fitness coaching
-            platform from a blank repo to a live beta with real users, in under
-            three months. That experience — tight deadlines, rapid iteration, zero
+            platform from a blank repo to a live beta with real users. That experience — tight deadlines, rapid iteration, zero
             room for fragile systems — shapes how I approach every project.
           </p>
         </motion.div>
