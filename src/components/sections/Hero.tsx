@@ -117,7 +117,7 @@ export default function Hero() {
             <div className="flex items-center gap-8">
               {[
                 { value: "3.6+", label: "GPA / 4.0" },
-                { value: "MVP", label: "in 3 months" },
+                { value: "MVP", label: "Live" },
                 { value: "15+", label: "API endpoints shipped" },
               ].map((stat) => (
                 <div key={stat.label}>

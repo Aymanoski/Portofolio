@@ -16,9 +16,9 @@ const projects = [
     solution:
       "Architected a .NET REST API with PostgreSQL, integrated SignalR for live session sync, and built parallel clients in Next.js and React Native/Expo — all from scratch.",
     impact: [
-      { icon: Zap, text: "MVP live in < 3 months" },
+      { icon: Zap, text: "MVP live" },
       { icon: Database, text: "6+ core entities, normalized schema" },
-      { icon: Globe, text: "15+ RESTful endpoints" },
+      { icon: Globe, text: "100+ RESTful endpoints" },
       { icon: Users, text: "4+ feature iterations from beta feedback" },
     ],
     stack: ["Next.js", ".NET", "PostgreSQL", "SignalR", "React Native", "Expo"],
