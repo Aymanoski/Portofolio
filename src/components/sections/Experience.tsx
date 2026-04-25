@@ -16,7 +16,7 @@ const timeline = [
     dotColor: "bg-brand-500",
     borderColor: "border-brand-500/30",
     achievements: [
-      "Architected 100+ RESTful API endpoints in .NET with PostgreSQL from scratch",
+      "Architected 60+ RESTful API endpoints in .NET with PostgreSQL from scratch",
       "Designed normalized schemas across 6+ core entities and wired real-time WebSocket sync via SignalR",
       "Delivered cross-platform clients (Next.js web + React Native mobile) in a single 3-month sprint",
       "Shipped 4+ feature iterations based on live beta tester feedback in rapid sprint cycles",

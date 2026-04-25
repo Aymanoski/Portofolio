@@ -18,7 +18,7 @@ const projects = [
     impact: [
       { icon: Zap, text: "MVP live" },
       { icon: Database, text: "6+ core entities, normalized schema" },
-      { icon: Globe, text: "100+ RESTful endpoints" },
+      { icon: Globe, text: "60+ RESTful endpoints" },
       { icon: Users, text: "4+ feature iterations from beta feedback" },
     ],
     stack: ["Next.js", ".NET", "PostgreSQL", "SignalR", "React Native", "Expo"],
